@@ -17,7 +17,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/TurtleCode84/status/master/assets/logo.png
+  favicon: https://raw.githubusercontent.com/TurtleCode84/status/master/assets/favicon.ico
   name: TurtleCode84 Status Hub
   introTitle: Welcome to the Status Hub!
   introMessage: Monitoring my websites since 2022

@@ -4,19 +4,19 @@
     "url": "https://wishlist.turtlecode84.repl.co",
     "icon": "https://favicons.githubusercontent.com/wishlist.turtlecode84.repl.co",
     "slug": "wish-list",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 446,
-    "timeDay": 446,
-    "timeWeek": 446,
-    "timeMonth": 446,
-    "timeYear": 446,
+    "status": "up",
+    "uptime": "81.67%",
+    "uptimeDay": "81.67%",
+    "uptimeWeek": "81.67%",
+    "uptimeMonth": "81.67%",
+    "uptimeYear": "81.67%",
+    "time": 479,
+    "timeDay": 479,
+    "timeWeek": 479,
+    "timeMonth": 479,
+    "timeYear": 479,
     "dailyMinutesDown": {
-      "2022-08-04": 0
+      "2022-08-04": 17
     }
   },
   {

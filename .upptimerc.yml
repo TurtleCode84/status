@@ -24,7 +24,7 @@ status-website:
   introMessage: Monitoring my websites since 2022
   navbar:
     - title: Home
-      href: /
+      href: /status
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 

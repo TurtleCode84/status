@@ -9,8 +9,6 @@ sites:
     url: https://htmly.turtlecode84.repl.co
   - name: MediaWiki
     url: https://mediawiki.turtlecode84.repl.co/wiki
-  - name: (test)
-    url: https://nonexistent.github.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

@@ -9,8 +9,6 @@ sites:
     url: https://htmly.turtlecode84.repl.co
   - name: MediaWiki
     url: https://mediawiki.turtlecode84.repl.co/wiki
-  - name: phpBB
-    url: https://phpbb.turtlecode84.repl.co/forum/
   - name: TurtleCode84 Status Hub (this site)
     url: https://turtlecode84.github.io/status
 

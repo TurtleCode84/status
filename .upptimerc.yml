@@ -25,6 +25,7 @@ status-website:
   name: TurtleCode84 Status Hub
   introTitle: Welcome to the Status Hub!
   introMessage: Monitoring my websites since 2022
+  theme: light
   navbar:
     - title: Home
       href: /status

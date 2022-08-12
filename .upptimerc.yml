@@ -5,10 +5,13 @@ repo: status # The name of this repository
 sites:
   - name: WishList
     url: https://wishlist.turtlecode84.repl.co
+    maxResponseTime: 60000
   - name: HTMLy
     url: https://htmly.turtlecode84.repl.co
+    maxResponseTime: 60000
   - name: MediaWiki
     url: https://mediawiki.turtlecode84.repl.co/wiki
+    maxResponseTime: 60000
   - name: TurtleCode84 Status Hub (this site)
     url: https://turtlecode84.github.io/status
 

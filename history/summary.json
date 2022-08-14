@@ -48,19 +48,19 @@
     "url": "https://turtlewiki.turtlecode84.repl.co/wiki",
     "icon": "https://favicons.githubusercontent.com/turtlewiki.turtlecode84.repl.co",
     "slug": "turtle-wiki",
-    "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 7086,
-    "timeDay": 7086,
-    "timeWeek": 7086,
-    "timeMonth": 7086,
-    "timeYear": 7086,
+    "status": "up",
+    "uptime": "74.06%",
+    "uptimeDay": "74.06%",
+    "uptimeWeek": "74.06%",
+    "uptimeMonth": "74.06%",
+    "uptimeYear": "74.06%",
+    "time": 5461,
+    "timeDay": 5461,
+    "timeWeek": 5461,
+    "timeMonth": 5461,
+    "timeYear": 5461,
     "dailyMinutesDown": {
-      "2022-08-14": 0
+      "2022-08-14": 10
     }
   },
   {

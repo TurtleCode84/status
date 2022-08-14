@@ -6,11 +6,11 @@ sites:
   - name: WishList
     url: https://wishlist.turtlecode84.repl.co
     maxResponseTime: 60000
-  - name: HTMLy
-    url: https://htmly.turtlecode84.repl.co
+  - name: Turtle's Code Blog
+    url: https://blog.turtlecode84.repl.co
     maxResponseTime: 60000
-  - name: MediaWiki
-    url: https://mediawiki.turtlecode84.repl.co/wiki
+  - name: TurtleWiki
+    url: https://turtlewiki.turtlecode84.repl.co/wiki
     maxResponseTime: 60000
   - name: TurtleCode CDN
     url: https://turtlecode84.github.io/cdn

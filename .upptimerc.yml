@@ -12,6 +12,8 @@ sites:
   - name: MediaWiki
     url: https://mediawiki.turtlecode84.repl.co/wiki
     maxResponseTime: 60000
+  - name: TurtleCode CDN
+    url: https://turtlecode84.github.io/cdn
   - name: TurtleCode84 Status Hub (this site)
     url: https://turtlecode84.github.io/status
 
@@ -20,8 +22,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/TurtleCode84/status/master/assets/logo.png
-  favicon: https://raw.githubusercontent.com/TurtleCode84/status/master/assets/favicon.ico
+  logoUrl: https://turtlecode84.github.io/cdn/images/logo.png
+  favicon: https://turtlecode84.github.io/cdn/images/favicon.ico
   name: TurtleCode84 Status Hub
   introTitle: Welcome to the Status Hub!
   introMessage: Monitoring my websites since 2022

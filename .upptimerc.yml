@@ -30,7 +30,11 @@ status-website:
   theme: light
   navbar:
     - title: Home
+      href: /
+    - title: Status
       href: /status
+    - title: Blog
+      href: https://blog.turtlecode84.repl.co
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 

@@ -5,16 +5,16 @@ repo: status # The name of this repository
 sites:
   - name: WishList
     url: https://wishlist.turtlecode84.repl.co
-    maxResponseTime: 60000
+    maxResponseTime: 45000
   - name: TurtleCode Portfolio
     url: https://portfolio.turtlecode84.repl.co
-    maxResponseTime: 60000
+    maxResponseTime: 45000
   - name: Turtle's Code Blog
     url: https://blog.turtlecode84.repl.co
-    maxResponseTime: 60000
+    maxResponseTime: 45000
   - name: TurtleWiki
     url: https://turtlewiki.turtlecode84.repl.co/wiki
-    maxResponseTime: 60000
+    maxResponseTime: 45000
   - name: TurtleCode CDN
     url: https://turtlecode84.github.io/cdn
   - name: TurtleCode84 Status Hub (this site)

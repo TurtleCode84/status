@@ -6,6 +6,9 @@ sites:
   - name: WishList
     url: https://wishlist.turtlecode84.repl.co
     maxResponseTime: 60000
+  - name: TurtleCode Portfolio
+    url: https://portfolio.turtlecode84.repl.co
+    maxResponseTime: 60000
   - name: Turtle's Code Blog
     url: https://blog.turtlecode84.repl.co
     maxResponseTime: 60000

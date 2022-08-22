@@ -3,9 +3,6 @@ owner: turtlecode84 # Your GitHub organization or username, where this repositor
 repo: status # The name of this repository
 
 sites:
-  - name: WishList
-    url: https://wishlist.turtlecode84.repl.co
-    maxResponseTime: 45000
   - name: TurtleCode Portfolio
     url: https://portfolio.turtlecode84.repl.co
     maxResponseTime: 45000

@@ -108,12 +108,12 @@
     "url": "https://turtlewiki.turtlecode84.repl.co/wiki",
     "icon": "https://icons.duckduckgo.com/ip3/turtlewiki.turtlecode84.repl.co.ico",
     "slug": "turtle-wiki",
-    "status": "up",
-    "uptime": "95.39%",
-    "uptimeDay": "68.95%",
+    "status": "down",
+    "uptime": "95.42%",
+    "uptimeDay": "68.94%",
     "uptimeWeek": "87.72%",
     "uptimeMonth": "91.56%",
-    "uptimeYear": "95.39%",
+    "uptimeYear": "95.42%",
     "time": 7882,
     "timeDay": 4754,
     "timeWeek": 5868,
@@ -153,8 +153,7 @@
       "2022-09-16": 21,
       "2022-09-15": 143,
       "2022-09-14": 182,
-      "2022-09-13": 231,
-      "2022-09-12": 20
+      "2022-09-13": 231
     }
   },
   {

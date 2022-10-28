@@ -7,13 +7,16 @@ sites:
     url: https://portfolio.turtlecode84.repl.co
     maxResponseTime: 45000
   - name: Turtle's Code Blog
-    url: https://blog.turtlecode84.repl.co
+    url: https://blog.turtlecode.me
     maxResponseTime: 45000
   - name: TurtleWiki
     url: https://turtlewiki.turtlecode84.repl.co/wiki
     maxResponseTime: 45000
+  - name: Collab
+    url: https://collab.turtlecode.me
+    maxResponseTime: 45000
   - name: TurtleCode CDN
-    url: https://turtlecode84.github.io/cdn
+    url: https://cdn.turtlecode.me
   - name: TurtleCode84 Status Hub (this site)
     url: https://status.turtlecode.me
 

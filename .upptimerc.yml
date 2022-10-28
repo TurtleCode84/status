@@ -15,13 +15,13 @@ sites:
   - name: TurtleCode CDN
     url: https://turtlecode84.github.io/cdn
   - name: TurtleCode84 Status Hub (this site)
-    url: https://turtlecode84.github.io/status
+    url: https://status.turtlecode.me
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /status
+  cname: status.turtlecode.me
+  # baseUrl: /status
   logoUrl: https://turtlecode84.github.io/cdn/images/logo.png
   favicon: https://turtlecode84.github.io/cdn/images/favicon.ico
   name: TurtleCode84 Status Hub

@@ -12,9 +12,6 @@ sites:
   - name: TurtleWiki
     url: https://turtlewiki.turtlecode84.repl.co/wiki
     maxResponseTime: 45000
-  - name: Social Experiment
-    url: https://socialexperiment.turtlecode.me
-    maxResponseTime: 45000
   - name: TurtleCode CDN
     url: https://cdn.turtlecode.me
   - name: TurtleCode84 Status Hub (this site)

@@ -8,8 +8,8 @@ sites:
   - name: TurtleCode Portfolio
     url: https://portfolio.turtlecode84.repl.co
     maxResponseTime: 45000
-  - name: Turtle's Code Blog
-    url: https://blog.turtlecode.me
+  - name: Turtle's Essays
+    url: https://essays.turtlecode.me
     maxResponseTime: 45000
   - name: TurtleCode CDN
     url: https://cdn.turtlecode.me
@@ -29,11 +29,9 @@ status-website:
   theme: light
   navbar:
     - title: Home
-      href: /
+      href: https://turtlecode.me
     - title: Status
-      href: /status
-    - title: Blog
-      href: https://blog.turtlecode.me
+      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 

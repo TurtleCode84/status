@@ -26,7 +26,7 @@ status-website:
   # baseUrl: /status
   logoUrl: https://cdn.turtlecode.me/images/logo.png
   favicon: https://cdn.turtlecode.me/images/favicon.ico
-  name: TurtleCode84 Status Hub
+  name: TurtleCode Status Hub
   introTitle: Welcome to my status hub!
   introMessage: Monitoring my websites since 2022
   theme: light

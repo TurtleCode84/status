@@ -3,10 +3,10 @@ owner: turtlecode84 # Your GitHub organization or username, where this repositor
 repo: status # The name of this repository
 
 sites:
-  - name: TurtleCode.me
+  - name: turtlecode.me
     url: https://turtlecode.me
-  - name: TurtleCode Portfolio
-    url: https://portfolio.turtlecode84.repl.co
+  - name: TurtleCode Filehost
+    url: https://filehost.turtlecode.me
     maxResponseTime: 45000
   - name: Turtle's Essays
     url: https://essays.turtlecode.me

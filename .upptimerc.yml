@@ -29,7 +29,7 @@ status-website:
   name: TurtleCode Status Hub
   introTitle: Welcome to my status hub!
   introMessage: Monitoring my websites since 2022
-  theme: night
+  theme: dark
   navbar:
     - title: Home
       href: https://turtlecode.me

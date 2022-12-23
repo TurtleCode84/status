@@ -8,6 +8,9 @@ sites:
   - name: TurtleCode Filehost
     url: https://filehost.turtlecode.me
     maxResponseTime: 45000
+  - name: TurtleCode Portfolio
+    url: https://portfolio.turtlecode.me
+    maxResponseTime: 45000
   - name: Turtle's Essays
     url: https://essays.turtlecode.me
     maxResponseTime: 45000

@@ -40,19 +40,19 @@
     "url": "https://filehost.turtlecode.me",
     "icon": "https://icons.duckduckgo.com/ip3/filehost.turtlecode.me.ico",
     "slug": "file-hosting-service",
-    "status": "down",
-    "uptime": "3.07%",
-    "uptimeDay": "3.07%",
-    "uptimeWeek": "3.07%",
-    "uptimeMonth": "3.07%",
-    "uptimeYear": "3.07%",
-    "time": 16096,
-    "timeDay": 16096,
-    "timeWeek": 16096,
-    "timeMonth": 16096,
-    "timeYear": 16096,
+    "status": "up",
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
+    "time": 12254,
+    "timeDay": 12254,
+    "timeWeek": 12254,
+    "timeMonth": 12254,
+    "timeYear": 12254,
     "dailyMinutesDown": {
-      "2022-12-23": 20
+      "2022-12-23": 1116
     }
   },
   {

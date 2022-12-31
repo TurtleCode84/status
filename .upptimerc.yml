@@ -7,9 +7,6 @@ sites:
     url: https://turtlecode.me
   - name: Content delivery node
     url: https://cdn.turtlecode.me
-  - name: File hosting service
-    url: https://filehost.turtlecode.me
-    maxResponseTime: 45000
   - name: Portfolio
     url: https://portfolio.turtlecode.me
     maxResponseTime: 45000

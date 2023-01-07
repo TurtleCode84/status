@@ -40,9 +40,9 @@
     "url": "https://portfolio.turtlecode.me",
     "icon": "https://icons.duckduckgo.com/ip3/portfolio.turtlecode.me.ico",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.79%",
@@ -52,6 +52,7 @@
     "timeMonth": 2935,
     "timeYear": 2935,
     "dailyMinutesDown": {
+      "2023-01-07": 0,
       "2022-12-28": 46
     }
   },

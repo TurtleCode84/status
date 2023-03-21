@@ -10,9 +10,6 @@ sites:
   - name: Portfolio
     url: https://portfolio.turtlecode.me
     maxResponseTime: 45000
-  - name: Turtle's Essays
-    url: https://essays.turtlecode.me
-    maxResponseTime: 45000
   - name: Status Hub (this site)
     url: https://status.turtlecode.me
 

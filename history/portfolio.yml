@@ -1,7 +1,7 @@
 url: https://portfolio.turtlecode.me
-status: up
-code: 200
-responseTime: 599
-lastUpdated: 2023-06-22T23:05:53.015Z
+status: down
+code: 502
+responseTime: 257
+lastUpdated: 2023-06-23T15:00:24.859Z
 startTime: Fri Dec 23 2022 00:38:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

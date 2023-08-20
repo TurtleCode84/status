@@ -4,18 +4,19 @@
     "url": "https://turtlecode.me",
     "icon": "https://icons.duckduckgo.com/ip3/turtlecode.me.ico",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 178,
-    "timeDay": 164,
-    "timeWeek": 205,
-    "timeMonth": 197,
+    "timeDay": 203,
+    "timeWeek": 209,
+    "timeMonth": 198,
     "timeYear": 178,
     "dailyMinutesDown": {
+      "2023-08-20": 0,
       "2023-05-25": 648,
       "2023-05-24": 139
     }
@@ -79,7 +80,7 @@
     "timeMonth": 331,
     "timeYear": 331,
     "dailyMinutesDown": {
-      "2023-08-20": 36,
+      "2023-08-20": 138,
       "2023-08-19": 1440,
       "2023-08-18": 1440,
       "2023-08-17": 178

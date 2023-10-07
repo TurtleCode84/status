@@ -49,9 +49,9 @@
     "slug": "status-hub-this-site",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 155,
     "timeDay": 178,
@@ -59,7 +59,6 @@
     "timeMonth": 179,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2023-10-07": 3,
       "2023-05-25": 649,
       "2023-05-24": 139
     }

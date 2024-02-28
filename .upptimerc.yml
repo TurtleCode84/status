@@ -12,7 +12,7 @@ sites:
   - name: tracktask.eu.org
     url: https://tracktask.eu.org
     __dangerous__body_down: "Maintenance in Progress"
-  - name: Webserver Networking Project
+  - name: webservernetworkingproject.hidden
     url: $HIDDEN_URL_WSN
 
 status-website:

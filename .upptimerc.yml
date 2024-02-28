@@ -13,7 +13,7 @@ sites:
     url: https://tracktask.eu.org
     __dangerous__body_down: "Maintenance in Progress"
   - name: Webserver Networking Project
-    url: $SECRET_URL_WSN
+    url: $HIDDEN_URL_WSN
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

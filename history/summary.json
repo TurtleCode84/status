@@ -97,19 +97,19 @@
     "url": "$HIDDEN_URL_TS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "totalsecrecybot-hidden",
-    "status": "up",
-    "uptime": "98.04%",
-    "uptimeDay": "98.04%",
-    "uptimeWeek": "98.04%",
-    "uptimeMonth": "98.04%",
-    "uptimeYear": "98.04%",
-    "time": 195,
-    "timeDay": 195,
-    "timeWeek": 195,
-    "timeMonth": 195,
-    "timeYear": 195,
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 340,
+    "timeDay": 340,
+    "timeWeek": 340,
+    "timeMonth": 340,
+    "timeYear": 340,
     "dailyMinutesDown": {
-      "2024-03-02": 9
+      "2024-03-02": 0
     }
   }
 ]

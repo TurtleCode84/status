@@ -1,7 +1,7 @@
 url: $HIDDEN_URL_TS
-status: down
-code: 503
-responseTime: 163
-lastUpdated: 2024-03-02T23:01:18.461Z
+status: up
+code: 200
+responseTime: 1275
+lastUpdated: 2024-03-03T04:14:21.274Z
 startTime: 2024-03-02T03:00:54.859Z
 generator: Upptime <https://github.com/upptime/upptime>

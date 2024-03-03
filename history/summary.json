@@ -80,18 +80,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webservernetworkingproject-hidden",
     "status": "down",
-    "uptime": "96.20%",
-    "uptimeDay": "83.74%",
-    "uptimeWeek": "96.20%",
-    "uptimeMonth": "96.20%",
-    "uptimeYear": "96.20%",
+    "uptime": "96.04%",
+    "uptimeDay": "83.04%",
+    "uptimeWeek": "96.04%",
+    "uptimeMonth": "96.04%",
+    "uptimeYear": "96.04%",
     "time": 350,
     "timeDay": 264,
     "timeWeek": 350,
     "timeMonth": 350,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2024-03-03": 234
+      "2024-03-03": 244
     }
   },
   {
@@ -99,19 +99,19 @@
     "url": "$HIDDEN_URL_TS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "totalsecrecybot-hidden",
-    "status": "down",
-    "uptime": "64.74%",
-    "uptimeDay": "55.61%",
-    "uptimeWeek": "64.74%",
-    "uptimeMonth": "64.74%",
-    "uptimeYear": "64.74%",
-    "time": 368,
-    "timeDay": 381,
-    "timeWeek": 368,
-    "timeMonth": 368,
-    "timeYear": 368,
+    "status": "up",
+    "uptime": "64.38%",
+    "uptimeDay": "54.91%",
+    "uptimeWeek": "64.38%",
+    "uptimeMonth": "64.38%",
+    "uptimeYear": "64.38%",
+    "time": 356,
+    "timeDay": 367,
+    "timeWeek": 356,
+    "timeMonth": 356,
+    "timeYear": 356,
     "dailyMinutesDown": {
-      "2024-03-03": 254,
+      "2024-03-03": 264,
       "2024-03-02": 386
     }
   }

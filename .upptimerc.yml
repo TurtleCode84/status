@@ -12,8 +12,6 @@ sites:
   - name: tracktask.eu.org
     url: https://tracktask.eu.org
     __dangerous__body_down: "Maintenance in Progress"
-  - name: webservernetworkingproject.hidden
-    url: $HIDDEN_URL_WSN
   - name: totalsecrecybot.hidden
     url: $HIDDEN_URL_TS
 

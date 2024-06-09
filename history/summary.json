@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 147,
-    "timeDay": 77,
-    "timeWeek": 139,
-    "timeMonth": 126,
+    "timeDay": 136,
+    "timeWeek": 146,
+    "timeMonth": 129,
     "timeYear": 147,
     "dailyMinutesDown": {
       "2024-04-02": 16
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 149,
-    "timeDay": 202,
+    "time": 148,
+    "timeDay": 44,
     "timeWeek": 75,
-    "timeMonth": 99,
-    "timeYear": 149,
+    "timeMonth": 91,
+    "timeYear": 148,
     "dailyMinutesDown": {
       "2024-04-02": 16
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 137,
-    "timeDay": 84,
-    "timeWeek": 116,
-    "timeMonth": 119,
-    "timeYear": 137,
+    "time": 138,
+    "timeDay": 168,
+    "timeWeek": 131,
+    "timeMonth": 121,
+    "timeYear": 138,
     "dailyMinutesDown": {
       "2024-04-02": 16
     }
@@ -65,15 +65,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tracktask.eu.org.ico",
     "slug": "tracktask-eu-org",
     "status": "up",
-    "uptime": "99.63%",
+    "uptime": "99.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.63%",
+    "uptimeYear": "99.64%",
     "time": 269,
-    "timeDay": 242,
-    "timeWeek": 308,
-    "timeMonth": 259,
+    "timeDay": 182,
+    "timeWeek": 303,
+    "timeMonth": 260,
     "timeYear": 269,
     "dailyMinutesDown": {
       "2024-04-02": 16,
